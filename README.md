@@ -65,4 +65,4 @@ Acredito que o aprendizado é contínuo. No momento, estou mergulhando em padrõ
 
 ---
 
-⭐️ *Este perfil está em constante evolução, assim como meus projetos.*
+ *Este perfil está em constante evolução, assim como meus projetos.*

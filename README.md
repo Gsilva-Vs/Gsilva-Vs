@@ -40,7 +40,7 @@ Sou um profissional de tecnologia apaixonado por criar soluções completas. Min
   </a>
 </p>
 
-** Site-ZuZu**  
+**Site-ZuZu**  
 Cardápio digital e identidade visual para o restaurante fictício ZuZu. Construído com React, TypeScript e Supabase, com foco em componentização, responsividade e integração com back-end serverless.
 
 ---

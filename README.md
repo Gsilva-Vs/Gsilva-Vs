@@ -38,10 +38,16 @@ Sou um profissional de tecnologia apaixonado por criar soluções completas. Min
   <a href="https://github.com/Gsilva-Vs/Site-ZuZu">
     <img src="https://img.shields.io/badge/Site--ZuZu-Cardápio_Digital-ff6b6b?style=for-the-badge&logo=react&logoColor=white" alt="Site-ZuZu"/>
   </a>
+  <a href="https://github.com/Gsilva-Vs/Pensando-Futuro-Site">
+    <img src="https://img.shields.io/badge/Pensando_Futuro-Educação-9333ea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pensando Futuro"/>
+  </a>
 </p>
 
 **Site-ZuZu**  
 Cardápio digital e identidade visual para o restaurante fictício ZuZu. Construído com React, TypeScript e Supabase, com foco em componentização, responsividade e integração com back-end serverless.
+
+**Pensando Futuro**  
+Site educacional com guias, dicas e materiais gratuitos para vestibulandos. Desenvolvido com React, TypeScript e Tailwind CSS, está no ar em **[pensandonofuturo.com.br](https://pensandonofuturo.com.br/)**.
 
 ---
 
@@ -59,4 +65,4 @@ Acredito que o aprendizado é contínuo. No momento, estou mergulhando em padrõ
 
 ---
 
- *Este perfil está em constante evolução, assim como meus projetos.*
+⭐️ *Este perfil está em constante evolução, assim como meus projetos.*

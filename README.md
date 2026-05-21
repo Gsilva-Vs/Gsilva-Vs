@@ -11,11 +11,12 @@
 
 ###  Sobre mim
 
-Sou um profissional de tecnologia apaixonado por criar soluções completas. Minha jornada une a **análise de dados** com o **desenvolvimento full stack**, me permitindo construir aplicações que vão do back-end robusto a interfaces elegantes e métricas inteligentes.
+Sou um profissional de tecnologia. Minha jornada une a **análise de dados** com o **desenvolvimento web**, me permitindo construir aplicações que vão do back-end robusto a interfaces e analises elegantes e inteligentes.
 
 -  Atualmente estou focado no **[Site-ZuZu](https://github.com/Gsilva-Vs/Site-ZuZu)**, um cardápio digital com React, TypeScript e Supabase.
 -  Estou aprofundando meus conhecimentos em **React, TypeScript e arquiteturas serverless**.
 -  Procuro colaborar em projetos de código aberto que unam **dados e desenvolvimento web**.
+-  Caso queria ver meu trabalho de analise de dado e dashboards no Power BI confira: | [Power BI Dashboards](https://github.com/Gsilva-Vs/PowerBi-Dashboards-) | 
 -  Fale comigo: **[gustavodeoliveirasilva25@gmail.com](mailto:gustavodeoliveirasilva25@gmail.com)**
 
 ---
@@ -28,6 +29,7 @@ Sou um profissional de tecnologia apaixonado por criar soluções completas. Min
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="React"/>
 </p>
 
 ---
